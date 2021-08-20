@@ -13,7 +13,7 @@ function Home() {
           <br />
           Kshitij Kumar
         </div>
-        <p>A Front-End Web Developer.</p>
+        <p>A Full Stack Web Developer.</p>
       </div>
       <img src="./me.png" className="my-photo"></img>
     </div>
