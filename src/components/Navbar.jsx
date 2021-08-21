@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className="navbar fixed-top navbar-expand-lg ">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           Kshitij Kumar
         </a>
         <button
@@ -25,7 +25,7 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item active">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/">
                 Home
               </a>
             </li>

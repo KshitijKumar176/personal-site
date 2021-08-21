@@ -1,5 +1,4 @@
 import React from "react";
-import Navbar from "./Navbar";
 
 function Home() {
   return (
@@ -15,7 +14,7 @@ function Home() {
         </div>
         <p>A Full Stack Web Developer.</p>
       </div>
-      <img src="./me.png" className="my-photo"></img>
+      <img src="./me.png" className="my-photo" alt="me"></img>
     </div>
   );
 }
